@@ -22,9 +22,9 @@ from telethon.tl.functions.channels import GetParticipantsRequest
 
 # Telethon settings
 # You can get api_id, api_hash on my.telegram.org.
-api_id = <api_id>
+api_id = 0
 api_hash = "<api_hash>"
-telethon_account = "+<mobile_phone>"
+telethon_account = "+749913372281"
 client = TelegramClient('session_id', api_id, api_hash)
 client.connect()
 
